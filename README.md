@@ -1,1 +1,1 @@
-Simple project tkinter.
+Simple project using tkinter.
